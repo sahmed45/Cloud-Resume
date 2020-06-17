@@ -4,6 +4,8 @@ Repository for my blog article: [How to build a free static resume site with AWS
 
 Project URL (May be down in 2021 after domain expiration): [Heyitsalan.com](heyitsalan.com)
 
+<img src="https://i.imgur.com/SUVFTAT.png">
+
 ### Completion:
 
 ![100%](https://progress-bar.dev/100)
